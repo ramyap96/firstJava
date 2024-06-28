@@ -9,7 +9,8 @@ pipeline {
     }
     stage('Test') {
       steps {
-        echo 'Testinglll'
+        echo 'Testing112233'
+
       }
     }
   }
